@@ -1,1 +1,14 @@
+.container {
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    color: white;
+}
 
+h1.cap-title {
+    position: absolute;
+    bottom: -31px;
+    left: 68px;
+}

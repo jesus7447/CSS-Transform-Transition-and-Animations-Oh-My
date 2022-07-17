@@ -42,3 +42,11 @@ a {
 a:hover {
   color: ghostwhite;
 }
+
+#middle {
+  animation-name: middle;
+}
+
+@keyframes middle {
+  0% {background-color: aqua;}
+}
